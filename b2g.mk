@@ -8,6 +8,7 @@ PRODUCT_PACKAGES += \
 	b2g-prlimit \
 	b2g-ps \
 	bluetoothd \
+	cwebp \
 	gonksched \
 	init.bluetooth.rc \
 	fakeappops \
