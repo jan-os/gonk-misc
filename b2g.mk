@@ -8,6 +8,7 @@ PRODUCT_PACKAGES += \
 	b2g-prlimit \
 	b2g-ps \
 	bluetoothd \
+	busybox \
 	cwebp \
 	gonksched \
 	init.bluetooth.rc \

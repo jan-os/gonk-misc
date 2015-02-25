@@ -33,3 +33,4 @@ on boot
     # Hard limit keeps default value(4096).
     setrlimit 7 2048 4096
     write /proc/sys/net/ipv6/conf/default/use_tempaddr 2
+    exec /system/bin/busybox --install /system/bin/
